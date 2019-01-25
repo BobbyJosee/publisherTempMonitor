@@ -1,1 +1,1 @@
-# Publish temperature using mqtt protocol 
+# Publish temperature using mqtt 
