@@ -1,1 +1,1 @@
-# publisherTempMonitor
+# Publish temperature using mqtt protocol 
