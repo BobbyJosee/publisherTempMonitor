@@ -20,9 +20,6 @@ os.system('modprobe w1-therm')
 base_dir = '/sys/bus/w1/devices/'
 device_file_list = glob.glob(base_dir + '28*')[0] + '/w1_slave'
 
-#script_path = "/home/pi/PiPonics/"
-#pump_file = script_path + "pump.txt"
-#drain_file = script_path + "drain.txt"
 
 #Callback function on message receive
 def on_message(client,userdata,message):
