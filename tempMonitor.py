@@ -1,6 +1,5 @@
 import os
 import glob
-import time
 import datetime
 
 import json # used to parse config.json
