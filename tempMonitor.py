@@ -9,7 +9,7 @@ import paho.mqtt.client as mqtt
 
 #MQTT Details
 broker_address="iot.eclipse.org"
-client_id="autobot"
+client_id="raspberry"
 sub_topic="greenhouse/temp"
 pub_topic="greenhouse/temp"
 
